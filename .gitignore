@@ -90,6 +90,10 @@ ENV/
 
 # emacs 
 .#*
+*~
 
 # Our own
 datapath.txt
+train.csv
+submission.csv
+test.csv
